@@ -25,7 +25,7 @@ author:
   pronouns         : "Theyshe"  
   bio              : "Cool UMBC Geography & GIS Undergrad"
   location         : "Baltimore, MD"
-  employer         : "" # If empty, ensure it's properly indented
+  employer         : "University of Maryland, Baltimore County" # If empty, ensure it's properly indented
   uri              : # URL
   email            : "amirat1@umbc.edu" 
 
