@@ -37,19 +37,19 @@ experience
 Skills
 ======
 *Leadership
-  *Spearheaded a team and developed
+   *Spearheaded a team and developed
   their communication skills to effectively
   educate youth.
 *Program Planning
-  *Organized programs related to STEM for
+   *Organized programs related to STEM for
    young women and directed them.
 *GIS Proficiency
-  *Familiarity with various GIS software that
+   *Familiarity with various GIS software that
    have been applied by capturing, storing,
    checking, and displaying data related to
    positions on Earth's surface.
 *Interpersonal Communication
-  *Strengthened my relationship with my
+   *Strengthened my relationship with my
    peers through effective language and
    thoughtful engagement.   
 
